@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13110257505",
+    "project_id": "condo-conecta-app",
+    "storage_bucket": "condo-conecta-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13110257505:android:c5d56f834c66c7455b4720",
+        "android_client_info": {
+          "package_name": "com.mycompany.icondominio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAffx4x97XEf_1TrVUL4I5G9zNDp3hFEBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
